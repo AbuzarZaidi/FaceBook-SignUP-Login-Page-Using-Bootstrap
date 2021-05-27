@@ -1,0 +1,71 @@
+/* 407BEA */
+
+body{
+    background-color: #D9DDEB;
+}
+#header{
+    background-color:#203c70 ;
+}
+h3{
+    font-weight:bold;
+}
+#img{
+    width: 100%;
+}
+#mainQuote{
+    color: #143470;
+    font-size: 1.3rem;
+}
+/* #logo img {
+    height: 70px;
+    width: 150px;
+} */
+#logo{
+    font-weight: 800;
+    font-size: 2rem;
+    color: white;
+}
+#headerPasswordLabel {
+color: white;
+font-size: 0.8rem;
+}
+#headerEmailLabel{
+    color: white;
+    font-size: 0.8rem;
+}
+#headerEmail{
+    border: none;
+    font-size: 0.6rem;
+    width: 115%;
+}
+#headerPassword{
+    border: none;
+    font-size: 0.6rem;
+    width: 115%;
+}
+
+#loginBtn{
+    background-color: #173d83;
+    border: none;
+    line-height: 1;
+    margin-bottom: 10px;
+    
+}
+#mainEmail{
+width: 82%;
+}
+#mainPassword{
+    width: 82%;
+}
+.gender{
+font-size: 1.2rem;
+}
+a{
+    text-decoration: none;
+}
+#signUpBtn{
+    background-color: rgb(110, 138, 54);
+    color:#fff;
+    font-size: 1rem;
+    width: 35%;
+}
